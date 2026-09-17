@@ -134,6 +134,6 @@ diskriminatif** untuk memisahkan Iris-setosa dan Iris-versicolor.
 
 ## Mata Kuliah
 
-> **Pembelajaran Mesin Modern (PMM)**
+> **Pembelajaran Mesin Mendalam Lanjut (PMML)**
 > Program Studi Magister Kecerdasan Artifisial
 > Universitas Gadjah Mada -- 2024/2025
